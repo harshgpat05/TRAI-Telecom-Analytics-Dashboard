@@ -1,0 +1,1765 @@
+month,lsa,operator,wireless_mobile_subscribers,unit,value_status,source_file,source_page
+2025-01-01,Andhra Pradesh,BSNL,6870976.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Andhra Pradesh,Bharti Airtel,33735002.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Andhra Pradesh,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Andhra Pradesh,Reliance Communications,0.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Andhra Pradesh,Reliance Jio,31814143.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Andhra Pradesh,Vodafone Idea,9878936.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Assam,BSNL,2974004.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Assam,Bharti Airtel,11984141.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Assam,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Assam,Reliance Communications,0.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Assam,Reliance Jio,9716277.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Assam,Vodafone Idea,1419772.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Bihar,BSNL,5972157.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Bihar,Bharti Airtel,40672414.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Bihar,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Bihar,Reliance Communications,0.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Bihar,Reliance Jio,41054184.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Bihar,Vodafone Idea,7532447.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Delhi,BSNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Delhi,Bharti Airtel,18561878.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Delhi,MTNL,789583.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Delhi,Reliance Communications,2.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Delhi,Reliance Jio,19699756.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Delhi,Vodafone Idea,16605020.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Gujarat,BSNL,3310773.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Gujarat,Bharti Airtel,12308365.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Gujarat,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Gujarat,Reliance Communications,16.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Gujarat,Reliance Jio,29884152.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Gujarat,Vodafone Idea,19682084.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Kolkata,BSNL,1460493.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Kolkata,Bharti Airtel,5450894.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Kolkata,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Kolkata,Reliance Communications,0.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Kolkata,Reliance Jio,10667894.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Kolkata,Vodafone Idea,4905270.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Madhya Pradesh,BSNL,5146819.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Madhya Pradesh,Bharti Airtel,16521520.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Madhya Pradesh,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Madhya Pradesh,Reliance Communications,0.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Madhya Pradesh,Reliance Jio,44530127.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Madhya Pradesh,Vodafone Idea,13784241.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,North East,BSNL,1286014.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,North East,Bharti Airtel,6273468.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,North East,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-01-01,North East,Reliance Communications,0.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,North East,Reliance Jio,4254085.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,North East,Vodafone Idea,649714.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Odisha,BSNL,5577316.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Odisha,Bharti Airtel,11749063.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Odisha,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Odisha,Reliance Communications,0.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Odisha,Reliance Jio,15706581.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Odisha,Vodafone Idea,1384864.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Punjab,BSNL,4092355.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Punjab,Bharti Airtel,12422911.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Punjab,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Punjab,Reliance Communications,6.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Punjab,Reliance Jio,11299809.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Punjab,Vodafone Idea,6077318.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Rajasthan,BSNL,5614566.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Rajasthan,Bharti Airtel,23235660.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Rajasthan,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Rajasthan,Reliance Communications,81.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Rajasthan,Reliance Jio,26245012.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Rajasthan,Vodafone Idea,9219961.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Tamil Nadu,BSNL,7775426.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Tamil Nadu,Bharti Airtel,29966292.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Tamil Nadu,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Tamil Nadu,Reliance Communications,0.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Tamil Nadu,Reliance Jio,24639667.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Tamil Nadu,Vodafone Idea,14854350.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Uttar Pradesh East,BSNL,8195114.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Uttar Pradesh East,Bharti Airtel,36432568.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Uttar Pradesh East,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Uttar Pradesh East,Reliance Communications,0.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Uttar Pradesh East,Reliance Jio,41139830.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Uttar Pradesh East,Vodafone Idea,15975202.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Uttar Pradesh West,BSNL,5158043.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Uttar Pradesh West,Bharti Airtel,18808741.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Uttar Pradesh West,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Uttar Pradesh West,Reliance Communications,0.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Uttar Pradesh West,Reliance Jio,24143459.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,Uttar Pradesh West,Vodafone Idea,14446899.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,West Bengal,BSNL,2680341.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,West Bengal,Bharti Airtel,18310281.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,West Bengal,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-01-01,West Bengal,Reliance Communications,9.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,West Bengal,Reliance Jio,24130088.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-01-01,West Bengal,Vodafone Idea,11742282.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Andhra Pradesh,BSNL,6903380.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Andhra Pradesh,Bharti Airtel,33860754.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Andhra Pradesh,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Andhra Pradesh,Reliance Communications,0.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Andhra Pradesh,Reliance Jio,31790196.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Andhra Pradesh,Vodafone Idea,9845623.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Assam,BSNL,2967914.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Assam,Bharti Airtel,12055507.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Assam,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Assam,Reliance Communications,0.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Assam,Reliance Jio,9722615.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Assam,Vodafone Idea,1417678.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Bihar,BSNL,5782332.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Bihar,Bharti Airtel,40895126.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Bihar,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Bihar,Reliance Communications,0.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Bihar,Reliance Jio,41361261.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Bihar,Vodafone Idea,7656740.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Delhi,BSNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Delhi,Bharti Airtel,18682396.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Delhi,MTNL,789439.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Delhi,Reliance Communications,1.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Delhi,Reliance Jio,19700790.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Delhi,Vodafone Idea,16609337.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Gujarat,BSNL,3302506.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Gujarat,Bharti Airtel,12352213.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Gujarat,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Gujarat,Reliance Communications,13.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Gujarat,Reliance Jio,29967554.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Gujarat,Vodafone Idea,19675139.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Kolkata,BSNL,1453411.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Kolkata,Bharti Airtel,5461847.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Kolkata,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Kolkata,Reliance Communications,0.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Kolkata,Reliance Jio,10685633.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Kolkata,Vodafone Idea,4889056.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Madhya Pradesh,BSNL,5150121.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Madhya Pradesh,Bharti Airtel,16591031.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Madhya Pradesh,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Madhya Pradesh,Reliance Communications,0.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Madhya Pradesh,Reliance Jio,44977398.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Madhya Pradesh,Vodafone Idea,13723887.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,North East,BSNL,1287306.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,North East,Bharti Airtel,6297679.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,North East,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-02-01,North East,Reliance Communications,0.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,North East,Reliance Jio,4293124.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,North East,Vodafone Idea,643723.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Odisha,BSNL,5573420.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Odisha,Bharti Airtel,11810695.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Odisha,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Odisha,Reliance Communications,0.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Odisha,Reliance Jio,15821044.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Odisha,Vodafone Idea,1394725.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Punjab,BSNL,4060849.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Punjab,Bharti Airtel,12500330.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Punjab,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Punjab,Reliance Communications,6.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Punjab,Reliance Jio,11328559.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Punjab,Vodafone Idea,6058132.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Rajasthan,BSNL,5622038.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Rajasthan,Bharti Airtel,23346647.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Rajasthan,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Rajasthan,Reliance Communications,80.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Rajasthan,Reliance Jio,26301466.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Rajasthan,Vodafone Idea,9218487.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Tamil Nadu,BSNL,7803561.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Tamil Nadu,Bharti Airtel,30067680.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Tamil Nadu,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Tamil Nadu,Reliance Communications,0.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Tamil Nadu,Reliance Jio,24623436.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Tamil Nadu,Vodafone Idea,14807824.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Uttar Pradesh East,BSNL,8081460.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Uttar Pradesh East,Bharti Airtel,36539391.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Uttar Pradesh East,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Uttar Pradesh East,Reliance Communications,0.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Uttar Pradesh East,Reliance Jio,41378733.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Uttar Pradesh East,Vodafone Idea,16061155.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Uttar Pradesh West,BSNL,4995971.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Uttar Pradesh West,Bharti Airtel,18893870.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Uttar Pradesh West,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Uttar Pradesh West,Reliance Communications,0.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Uttar Pradesh West,Reliance Jio,24260684.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,Uttar Pradesh West,Vodafone Idea,14411142.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,West Bengal,BSNL,2669657.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,West Bengal,Bharti Airtel,18414246.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,West Bengal,MTNL,,subscribers,blank_in_source,TSD-Feb_25_English_0.pdf,18
+2025-02-01,West Bengal,Reliance Communications,9.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,West Bengal,Reliance Jio,24227775.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-02-01,West Bengal,Vodafone Idea,11722068.0,subscribers,reported,TSD-Feb_25_English_0.pdf,18
+2025-03-01,Andhra Pradesh,BSNL,6937453.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Andhra Pradesh,Bharti Airtel,33923195.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Andhra Pradesh,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-03-01,Andhra Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Andhra Pradesh,Reliance Jio,31776074.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Andhra Pradesh,Vodafone Idea,9699287.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Assam,BSNL,2970848.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Assam,Bharti Airtel,12241287.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Assam,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-03-01,Assam,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Assam,Reliance Jio,9726580.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Assam,Vodafone Idea,1420096.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Bihar,BSNL,5771775.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Bihar,Bharti Airtel,41096191.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Bihar,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-03-01,Bihar,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Bihar,Reliance Jio,41730845.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Bihar,Vodafone Idea,7727548.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Delhi,BSNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-03-01,Delhi,Bharti Airtel,18771602.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Delhi,MTNL,789314.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Delhi,Reliance Communications,1.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Delhi,Reliance Jio,19802703.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Delhi,Vodafone Idea,16756217.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Gujarat,BSNL,3266954.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Gujarat,Bharti Airtel,12359251.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Gujarat,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-03-01,Gujarat,Reliance Communications,1.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Gujarat,Reliance Jio,30117232.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Gujarat,Vodafone Idea,19629831.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Haryana,BSNL,4212938.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Haryana,Bharti Airtel,7245664.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Haryana,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-03-01,Haryana,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Haryana,Reliance Jio,8303012.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Haryana,Vodafone Idea,6365079.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Himachal Pradesh,BSNL,1682282.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Himachal Pradesh,Bharti Airtel,3575615.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Himachal Pradesh,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-03-01,Himachal Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Himachal Pradesh,Reliance Jio,3216541.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Himachal Pradesh,Vodafone Idea,379892.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Jammu & Kashmir,BSNL,866466.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Jammu & Kashmir,Bharti Airtel,6179009.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Jammu & Kashmir,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-03-01,Jammu & Kashmir,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Jammu & Kashmir,Reliance Jio,4873069.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Jammu & Kashmir,Vodafone Idea,262607.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Karnataka,BSNL,4573403.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Karnataka,Bharti Airtel,32306447.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Karnataka,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-03-01,Karnataka,Reliance Communications,412.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Karnataka,Reliance Jio,24786795.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Karnataka,Vodafone Idea,6628032.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Kerala,BSNL,8780341.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Kerala,Bharti Airtel,8915860.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Kerala,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-03-01,Kerala,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Kerala,Reliance Jio,10699305.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Kerala,Vodafone Idea,12920924.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Kolkata,BSNL,1454781.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Kolkata,Bharti Airtel,5435465.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Kolkata,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-03-01,Kolkata,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Kolkata,Reliance Jio,10710207.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Kolkata,Vodafone Idea,4851202.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Madhya Pradesh,BSNL,5164051.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Madhya Pradesh,Bharti Airtel,16642059.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Madhya Pradesh,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-03-01,Madhya Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Madhya Pradesh,Reliance Jio,45194727.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Madhya Pradesh,Vodafone Idea,13599147.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Maharashtra,BSNL,5301279.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Maharashtra,Bharti Airtel,22583417.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Maharashtra,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-03-01,Maharashtra,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Maharashtra,Reliance Jio,42565948.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Maharashtra,Vodafone Idea,20309525.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Mumbai,BSNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-03-01,Mumbai,Bharti Airtel,10124250.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Mumbai,MTNL,208915.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Mumbai,Reliance Communications,56.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Mumbai,Reliance Jio,13172111.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Mumbai,Vodafone Idea,10711200.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,North East,BSNL,1290499.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,North East,Bharti Airtel,6419608.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,North East,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-03-01,North East,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,North East,Reliance Jio,4305145.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,North East,Vodafone Idea,637041.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Odisha,BSNL,5573279.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Odisha,Bharti Airtel,11996212.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Odisha,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-03-01,Odisha,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Odisha,Reliance Jio,15956645.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Odisha,Vodafone Idea,1397972.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Punjab,BSNL,4092007.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Punjab,Bharti Airtel,12564173.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Punjab,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-03-01,Punjab,Reliance Communications,6.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Punjab,Reliance Jio,11347016.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Punjab,Vodafone Idea,6037566.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Rajasthan,BSNL,5634425.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Rajasthan,Bharti Airtel,23434836.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Rajasthan,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-03-01,Rajasthan,Reliance Communications,81.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Rajasthan,Reliance Jio,26378934.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Rajasthan,Vodafone Idea,9173311.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Tamil Nadu,BSNL,7783902.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Tamil Nadu,Bharti Airtel,30155175.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Tamil Nadu,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-03-01,Tamil Nadu,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Tamil Nadu,Reliance Jio,24608262.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Tamil Nadu,Vodafone Idea,14731787.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Uttar Pradesh East,BSNL,8081876.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Uttar Pradesh East,Bharti Airtel,36484630.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Uttar Pradesh East,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-03-01,Uttar Pradesh East,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Uttar Pradesh East,Reliance Jio,41697984.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Uttar Pradesh East,Vodafone Idea,16128148.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Uttar Pradesh West,BSNL,4984322.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Uttar Pradesh West,Bharti Airtel,18885824.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Uttar Pradesh West,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-03-01,Uttar Pradesh West,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Uttar Pradesh West,Reliance Jio,24399462.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,Uttar Pradesh West,Vodafone Idea,14371653.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,West Bengal,BSNL,2637783.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,West Bengal,Bharti Airtel,18464267.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,West Bengal,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-03-01,West Bengal,Reliance Communications,9.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,West Bengal,Reliance Jio,24395255.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-03-01,West Bengal,Vodafone Idea,11620668.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Andhra Pradesh,BSNL,6939168.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Andhra Pradesh,Bharti Airtel,33965795.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Andhra Pradesh,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-04-01,Andhra Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Andhra Pradesh,Reliance Jio,31871384.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Andhra Pradesh,Vodafone Idea,9690229.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Assam,BSNL,2969614.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Assam,Bharti Airtel,12314102.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Assam,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-04-01,Assam,Reliance Communications,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-04-01,Assam,Reliance Jio,9752800.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Assam,Vodafone Idea,1422240.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Bihar,BSNL,5752352.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Bihar,Bharti Airtel,40967773.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Bihar,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-04-01,Bihar,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Bihar,Reliance Jio,42106190.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Bihar,Vodafone Idea,7781220.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Delhi,BSNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-04-01,Delhi,Bharti Airtel,18877637.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Delhi,MTNL,788984.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Delhi,Reliance Communications,1.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Delhi,Reliance Jio,19892440.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Delhi,Vodafone Idea,16796269.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Gujarat,BSNL,3260886.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Gujarat,Bharti Airtel,12401101.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Gujarat,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-04-01,Gujarat,Reliance Communications,1.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Gujarat,Reliance Jio,30453865.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Gujarat,Vodafone Idea,19680582.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Haryana,BSNL,4199581.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Haryana,Bharti Airtel,7256973.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Haryana,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-04-01,Haryana,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Haryana,Reliance Jio,8333583.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Haryana,Vodafone Idea,6337736.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Himachal Pradesh,BSNL,1686251.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Himachal Pradesh,Bharti Airtel,3575366.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Himachal Pradesh,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-04-01,Himachal Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Himachal Pradesh,Reliance Jio,3230655.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Himachal Pradesh,Vodafone Idea,381498.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Jammu & Kashmir,BSNL,865999.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Jammu & Kashmir,Bharti Airtel,6259328.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Jammu & Kashmir,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-04-01,Jammu & Kashmir,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Jammu & Kashmir,Reliance Jio,4921318.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Jammu & Kashmir,Vodafone Idea,266116.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Karnataka,BSNL,4570631.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Karnataka,Bharti Airtel,32337705.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Karnataka,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-04-01,Karnataka,Reliance Communications,410.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Karnataka,Reliance Jio,24907184.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Karnataka,Vodafone Idea,6737615.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Kerala,BSNL,8786312.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Kerala,Bharti Airtel,8979470.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Kerala,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-04-01,Kerala,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Kerala,Reliance Jio,10775087.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Kerala,Vodafone Idea,12886334.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Kolkata,BSNL,1455425.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Kolkata,Bharti Airtel,5414409.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Kolkata,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-04-01,Kolkata,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Kolkata,Reliance Jio,10767827.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Kolkata,Vodafone Idea,4797574.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Madhya Pradesh,BSNL,5129940.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Madhya Pradesh,Bharti Airtel,16632103.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Madhya Pradesh,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-04-01,Madhya Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Madhya Pradesh,Reliance Jio,45566747.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Madhya Pradesh,Vodafone Idea,13390619.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Maharashtra,BSNL,5288032.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Maharashtra,Bharti Airtel,22616457.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Maharashtra,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-04-01,Maharashtra,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Maharashtra,Reliance Jio,42699088.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Maharashtra,Vodafone Idea,20208191.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Mumbai,BSNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-04-01,Mumbai,Bharti Airtel,10117466.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Mumbai,MTNL,141577.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Mumbai,Reliance Communications,64.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Mumbai,Reliance Jio,12943992.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Mumbai,Vodafone Idea,10717031.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,North East,BSNL,1290594.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,North East,Bharti Airtel,6441774.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,North East,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-04-01,North East,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,North East,Reliance Jio,4322201.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,North East,Vodafone Idea,629682.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Odisha,BSNL,5565278.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Odisha,Bharti Airtel,12000051.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Odisha,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-04-01,Odisha,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Odisha,Reliance Jio,16109743.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Odisha,Vodafone Idea,1404631.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Punjab,BSNL,4082258.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Punjab,Bharti Airtel,12536760.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Punjab,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-04-01,Punjab,Reliance Communications,7.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Punjab,Reliance Jio,11396751.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Punjab,Vodafone Idea,5987467.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Rajasthan,BSNL,5626191.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Rajasthan,Bharti Airtel,23398032.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Rajasthan,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-04-01,Rajasthan,Reliance Communications,78.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Rajasthan,Reliance Jio,26522578.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Rajasthan,Vodafone Idea,9122850.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Tamil Nadu,BSNL,7758526.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Tamil Nadu,Bharti Airtel,30287993.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Tamil Nadu,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-04-01,Tamil Nadu,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Tamil Nadu,Reliance Jio,24674009.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Tamil Nadu,Vodafone Idea,14592467.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Uttar Pradesh East,BSNL,8065974.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Uttar Pradesh East,Bharti Airtel,36295702.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Uttar Pradesh East,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-04-01,Uttar Pradesh East,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Uttar Pradesh East,Reliance Jio,42010696.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Uttar Pradesh East,Vodafone Idea,16049712.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Uttar Pradesh West,BSNL,4979572.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Uttar Pradesh West,Bharti Airtel,18828814.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Uttar Pradesh West,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-04-01,Uttar Pradesh West,Reliance Communications,0.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Uttar Pradesh West,Reliance Jio,24576722.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,Uttar Pradesh West,Vodafone Idea,14284138.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,West Bengal,BSNL,2633080.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,West Bengal,Bharti Airtel,18469884.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,West Bengal,MTNL,,subscribers,blank_in_source,PR_No.44of2025_0.pdf,18
+2025-04-01,West Bengal,Reliance Communications,8.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,West Bengal,Reliance Jio,24573830.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-04-01,West Bengal,Vodafone Idea,11546912.0,subscribers,reported,PR_No.44of2025_0.pdf,18
+2025-05-01,Andhra Pradesh,BSNL,6928049.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Andhra Pradesh,Bharti Airtel,34048191.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Andhra Pradesh,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-05-01,Andhra Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Andhra Pradesh,Reliance Jio,31945214.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Andhra Pradesh,Vodafone Idea,9640343.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Assam,BSNL,2963344.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Assam,Bharti Airtel,12293151.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Assam,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-05-01,Assam,Reliance Communications,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-05-01,Assam,Reliance Jio,9758191.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Assam,Vodafone Idea,1434019.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Bihar,BSNL,5724768.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Bihar,Bharti Airtel,40988647.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Bihar,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-05-01,Bihar,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Bihar,Reliance Jio,42434492.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Bihar,Vodafone Idea,7830567.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Delhi,BSNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-05-01,Delhi,Bharti Airtel,18955970.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Delhi,MTNL,320183.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Delhi,Reliance Communications,1.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Delhi,Reliance Jio,19955909.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Delhi,Vodafone Idea,16668960.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Gujarat,BSNL,3251401.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Gujarat,Bharti Airtel,12410627.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Gujarat,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-05-01,Gujarat,Reliance Communications,1.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Gujarat,Reliance Jio,30771740.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Gujarat,Vodafone Idea,19779837.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Haryana,BSNL,4235843.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Haryana,Bharti Airtel,7297408.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Haryana,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-05-01,Haryana,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Haryana,Reliance Jio,8354396.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Haryana,Vodafone Idea,6326307.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Himachal Pradesh,BSNL,1673678.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Himachal Pradesh,Bharti Airtel,3573207.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Himachal Pradesh,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-05-01,Himachal Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Himachal Pradesh,Reliance Jio,3233151.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Himachal Pradesh,Vodafone Idea,381278.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Jammu & Kashmir,BSNL,862849.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Jammu & Kashmir,Bharti Airtel,6226341.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Jammu & Kashmir,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-05-01,Jammu & Kashmir,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Jammu & Kashmir,Reliance Jio,4939802.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Jammu & Kashmir,Vodafone Idea,262255.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Karnataka,BSNL,4563424.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Karnataka,Bharti Airtel,32353587.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Karnataka,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-05-01,Karnataka,Reliance Communications,404.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Karnataka,Reliance Jio,25059651.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Karnataka,Vodafone Idea,6727033.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Kerala,BSNL,8768554.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Kerala,Bharti Airtel,9053445.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Kerala,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-05-01,Kerala,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Kerala,Reliance Jio,10785088.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Kerala,Vodafone Idea,12858619.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Kolkata,BSNL,1454009.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Kolkata,Bharti Airtel,5388945.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Kolkata,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-05-01,Kolkata,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Kolkata,Reliance Jio,10802359.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Kolkata,Vodafone Idea,4768376.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Madhya Pradesh,BSNL,5092733.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Madhya Pradesh,Bharti Airtel,16640450.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Madhya Pradesh,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-05-01,Madhya Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Madhya Pradesh,Reliance Jio,45986829.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Madhya Pradesh,Vodafone Idea,13333801.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Maharashtra,BSNL,5270399.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Maharashtra,Bharti Airtel,22643568.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Maharashtra,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-05-01,Maharashtra,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Maharashtra,Reliance Jio,42862044.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Maharashtra,Vodafone Idea,20236102.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Mumbai,BSNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-05-01,Mumbai,Bharti Airtel,10098290.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Mumbai,MTNL,139566.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Mumbai,Reliance Communications,65.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Mumbai,Reliance Jio,12961608.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Mumbai,Vodafone Idea,10718766.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,North East,BSNL,1287918.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,North East,Bharti Airtel,6453660.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,North East,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-05-01,North East,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,North East,Reliance Jio,4359535.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,North East,Vodafone Idea,624589.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Odisha,BSNL,5556906.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Odisha,Bharti Airtel,12003744.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Odisha,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-05-01,Odisha,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Odisha,Reliance Jio,16263873.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Odisha,Vodafone Idea,1423473.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Punjab,BSNL,4075609.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Punjab,Bharti Airtel,12534759.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Punjab,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-05-01,Punjab,Reliance Communications,7.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Punjab,Reliance Jio,11400335.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Punjab,Vodafone Idea,5940040.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Rajasthan,BSNL,5619511.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Rajasthan,Bharti Airtel,23389579.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Rajasthan,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-05-01,Rajasthan,Reliance Communications,52.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Rajasthan,Reliance Jio,26617594.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Rajasthan,Vodafone Idea,9091447.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Tamil Nadu,BSNL,7783965.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Tamil Nadu,Bharti Airtel,30397167.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Tamil Nadu,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-05-01,Tamil Nadu,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Tamil Nadu,Reliance Jio,24725577.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Tamil Nadu,Vodafone Idea,14580242.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Uttar Pradesh East,BSNL,8062697.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Uttar Pradesh East,Bharti Airtel,36260483.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Uttar Pradesh East,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-05-01,Uttar Pradesh East,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Uttar Pradesh East,Reliance Jio,42384979.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Uttar Pradesh East,Vodafone Idea,16039247.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Uttar Pradesh West,BSNL,4974408.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Uttar Pradesh West,Bharti Airtel,18796958.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Uttar Pradesh West,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-05-01,Uttar Pradesh West,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Uttar Pradesh West,Reliance Jio,24754486.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,Uttar Pradesh West,Vodafone Idea,14260491.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,West Bengal,BSNL,2619945.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,West Bengal,Bharti Airtel,18442139.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,West Bengal,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-05-01,West Bengal,Reliance Communications,9.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,West Bengal,Reliance Jio,24751903.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-05-01,West Bengal,Vodafone Idea,11511218.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Andhra Pradesh,BSNL,6914850.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Andhra Pradesh,Bharti Airtel,34242244.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Andhra Pradesh,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-06-01,Andhra Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Andhra Pradesh,Reliance Jio,31919256.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Andhra Pradesh,Vodafone Idea,9596019.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Assam,BSNL,2949537.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Assam,Bharti Airtel,12307089.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Assam,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-06-01,Assam,Reliance Communications,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-06-01,Assam,Reliance Jio,9755628.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Assam,Vodafone Idea,1429694.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Bihar,BSNL,5685861.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Bihar,Bharti Airtel,40991403.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Bihar,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-06-01,Bihar,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Bihar,Reliance Jio,42682509.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Bihar,Vodafone Idea,7858060.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Delhi,BSNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-06-01,Delhi,Bharti Airtel,19006627.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Delhi,MTNL,174758.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Delhi,Reliance Communications,1.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Delhi,Reliance Jio,19893256.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Delhi,Vodafone Idea,16728046.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Gujarat,BSNL,3240893.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Gujarat,Bharti Airtel,12420850.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Gujarat,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-06-01,Gujarat,Reliance Communications,1.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Gujarat,Reliance Jio,31098753.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Gujarat,Vodafone Idea,19750613.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Haryana,BSNL,4254279.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Haryana,Bharti Airtel,7337692.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Haryana,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-06-01,Haryana,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Haryana,Reliance Jio,8352577.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Haryana,Vodafone Idea,6310748.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Himachal Pradesh,BSNL,1679271.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Himachal Pradesh,Bharti Airtel,3599301.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Himachal Pradesh,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-06-01,Himachal Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Himachal Pradesh,Reliance Jio,3234729.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Himachal Pradesh,Vodafone Idea,381258.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Jammu & Kashmir,BSNL,861736.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Jammu & Kashmir,Bharti Airtel,6315109.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Jammu & Kashmir,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-06-01,Jammu & Kashmir,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Jammu & Kashmir,Reliance Jio,4999647.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Jammu & Kashmir,Vodafone Idea,259065.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Karnataka,BSNL,4505756.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Karnataka,Bharti Airtel,32449731.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Karnataka,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-06-01,Karnataka,Reliance Communications,402.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Karnataka,Reliance Jio,25162401.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Karnataka,Vodafone Idea,6851977.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Kerala,BSNL,8774237.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Kerala,Bharti Airtel,9103787.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Kerala,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-06-01,Kerala,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Kerala,Reliance Jio,10803334.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Kerala,Vodafone Idea,12845818.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Kolkata,BSNL,1373028.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Kolkata,Bharti Airtel,5374126.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Kolkata,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-06-01,Kolkata,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Kolkata,Reliance Jio,10795156.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Kolkata,Vodafone Idea,4754217.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Madhya Pradesh,BSNL,5056025.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Madhya Pradesh,Bharti Airtel,16695435.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Madhya Pradesh,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-06-01,Madhya Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Madhya Pradesh,Reliance Jio,46412887.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Madhya Pradesh,Vodafone Idea,13277301.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Maharashtra,BSNL,5251965.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Maharashtra,Bharti Airtel,22744325.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Maharashtra,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-06-01,Maharashtra,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Maharashtra,Reliance Jio,42921671.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Maharashtra,Vodafone Idea,20282509.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Mumbai,BSNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-06-01,Mumbai,Bharti Airtel,10080637.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Mumbai,MTNL,132334.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Mumbai,Reliance Communications,58.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Mumbai,Reliance Jio,12938940.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Mumbai,Vodafone Idea,10725076.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,North East,BSNL,1282201.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,North East,Bharti Airtel,6457193.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,North East,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-06-01,North East,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,North East,Reliance Jio,4361273.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,North East,Vodafone Idea,627363.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Odisha,BSNL,5540622.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Odisha,Bharti Airtel,11991403.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Odisha,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-06-01,Odisha,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Odisha,Reliance Jio,16361162.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Odisha,Vodafone Idea,1428049.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Punjab,BSNL,4072133.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Punjab,Bharti Airtel,12553073.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Punjab,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-06-01,Punjab,Reliance Communications,7.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Punjab,Reliance Jio,11386214.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Punjab,Vodafone Idea,5888323.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Rajasthan,BSNL,5617556.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Rajasthan,Bharti Airtel,23414504.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Rajasthan,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-06-01,Rajasthan,Reliance Communications,51.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Rajasthan,Reliance Jio,26815995.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Rajasthan,Vodafone Idea,8984641.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Tamil Nadu,BSNL,7763268.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Tamil Nadu,Bharti Airtel,30506366.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Tamil Nadu,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-06-01,Tamil Nadu,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Tamil Nadu,Reliance Jio,24728678.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Tamil Nadu,Vodafone Idea,14524173.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Uttar Pradesh East,BSNL,8063891.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Uttar Pradesh East,Bharti Airtel,36142330.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Uttar Pradesh East,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-06-01,Uttar Pradesh East,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Uttar Pradesh East,Reliance Jio,42620661.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Uttar Pradesh East,Vodafone Idea,16002747.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Uttar Pradesh West,BSNL,4975788.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Uttar Pradesh West,Bharti Airtel,18790030.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Uttar Pradesh West,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-06-01,Uttar Pradesh West,Reliance Communications,0.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Uttar Pradesh West,Reliance Jio,24890351.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,Uttar Pradesh West,Vodafone Idea,14239513.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,West Bengal,BSNL,2601347.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,West Bengal,Bharti Airtel,18490543.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,West Bengal,MTNL,,subscribers,blank_in_source,PR_No.64of2025_0.pdf,18
+2025-06-01,West Bengal,Reliance Communications,9.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,West Bengal,Reliance Jio,24886458.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-06-01,West Bengal,Vodafone Idea,11473984.0,subscribers,reported,PR_No.64of2025_0.pdf,18
+2025-07-01,Andhra Pradesh,BSNL,6916286.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Andhra Pradesh,Bharti Airtel,34321932.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Andhra Pradesh,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-07-01,Andhra Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Andhra Pradesh,Reliance Jio,31730391.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Andhra Pradesh,Vodafone Idea,9503297.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Assam,BSNL,2925869.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Assam,Bharti Airtel,12351382.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Assam,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-07-01,Assam,Reliance Communications,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-07-01,Assam,Reliance Jio,9749921.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Assam,Vodafone Idea,1442516.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Bihar,BSNL,5648429.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Bihar,Bharti Airtel,40807978.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Bihar,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-07-01,Bihar,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Bihar,Reliance Jio,42460057.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Bihar,Vodafone Idea,7949346.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Delhi,BSNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-07-01,Delhi,Bharti Airtel,19071921.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Delhi,MTNL,174277.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Delhi,Reliance Communications,2.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Delhi,Reliance Jio,20027060.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Delhi,Vodafone Idea,16650505.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Gujarat,BSNL,3231672.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Gujarat,Bharti Airtel,12555074.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Gujarat,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-07-01,Gujarat,Reliance Communications,1.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Gujarat,Reliance Jio,31429998.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Gujarat,Vodafone Idea,19702070.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Haryana,BSNL,4281565.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Haryana,Bharti Airtel,7346147.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Haryana,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-07-01,Haryana,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Haryana,Reliance Jio,8312701.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Haryana,Vodafone Idea,6300847.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Himachal Pradesh,BSNL,1684645.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Himachal Pradesh,Bharti Airtel,3608108.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Himachal Pradesh,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-07-01,Himachal Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Himachal Pradesh,Reliance Jio,3239834.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Himachal Pradesh,Vodafone Idea,383681.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Jammu & Kashmir,BSNL,863591.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Jammu & Kashmir,Bharti Airtel,6373463.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Jammu & Kashmir,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-07-01,Jammu & Kashmir,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Jammu & Kashmir,Reliance Jio,5158575.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Jammu & Kashmir,Vodafone Idea,254920.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Karnataka,BSNL,4502365.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Karnataka,Bharti Airtel,32466518.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Karnataka,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-07-01,Karnataka,Reliance Communications,402.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Karnataka,Reliance Jio,25208588.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Karnataka,Vodafone Idea,6936855.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Kerala,BSNL,8789243.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Kerala,Bharti Airtel,9177773.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Kerala,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-07-01,Kerala,Reliance Communications,4.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Kerala,Reliance Jio,10858996.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Kerala,Vodafone Idea,12828062.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Kolkata,BSNL,1365363.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Kolkata,Bharti Airtel,5319701.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Kolkata,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-07-01,Kolkata,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Kolkata,Reliance Jio,10872556.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Kolkata,Vodafone Idea,4774683.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Madhya Pradesh,BSNL,5034420.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Madhya Pradesh,Bharti Airtel,16736923.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Madhya Pradesh,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-07-01,Madhya Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Madhya Pradesh,Reliance Jio,46554116.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Madhya Pradesh,Vodafone Idea,13253296.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Maharashtra,BSNL,5221931.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Maharashtra,Bharti Airtel,22837997.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Maharashtra,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-07-01,Maharashtra,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Maharashtra,Reliance Jio,42754621.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Maharashtra,Vodafone Idea,20296273.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Mumbai,BSNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-07-01,Mumbai,Bharti Airtel,10087725.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Mumbai,MTNL,130343.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Mumbai,Reliance Communications,58.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Mumbai,Reliance Jio,13034340.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Mumbai,Vodafone Idea,10707338.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,North East,BSNL,1276976.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,North East,Bharti Airtel,6459452.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,North East,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-07-01,North East,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,North East,Reliance Jio,4397036.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,North East,Vodafone Idea,625765.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Odisha,BSNL,5529977.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Odisha,Bharti Airtel,11982404.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Odisha,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-07-01,Odisha,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Odisha,Reliance Jio,16420531.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Odisha,Vodafone Idea,1454416.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Punjab,BSNL,4052811.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Punjab,Bharti Airtel,12530737.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Punjab,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-07-01,Punjab,Reliance Communications,7.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Punjab,Reliance Jio,11371007.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Punjab,Vodafone Idea,5860493.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Rajasthan,BSNL,5624794.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Rajasthan,Bharti Airtel,23418747.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Rajasthan,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-07-01,Rajasthan,Reliance Communications,50.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Rajasthan,Reliance Jio,26733882.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Rajasthan,Vodafone Idea,8886044.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Tamil Nadu,BSNL,7786672.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Tamil Nadu,Bharti Airtel,30671841.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Tamil Nadu,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-07-01,Tamil Nadu,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Tamil Nadu,Reliance Jio,24574594.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Tamil Nadu,Vodafone Idea,14502108.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Uttar Pradesh East,BSNL,8069909.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Uttar Pradesh East,Bharti Airtel,36081574.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Uttar Pradesh East,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-07-01,Uttar Pradesh East,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Uttar Pradesh East,Reliance Jio,42684115.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Uttar Pradesh East,Vodafone Idea,15968617.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Uttar Pradesh West,BSNL,4973433.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Uttar Pradesh West,Bharti Airtel,18821303.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Uttar Pradesh West,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-07-01,Uttar Pradesh West,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Uttar Pradesh West,Reliance Jio,24897176.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,Uttar Pradesh West,Vodafone Idea,14162137.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,West Bengal,BSNL,2583586.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,West Bengal,Bharti Airtel,18449535.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,West Bengal,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-07-01,West Bengal,Reliance Communications,9.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,West Bengal,Reliance Jio,25034395.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-07-01,West Bengal,Vodafone Idea,11416726.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Andhra Pradesh,BSNL,7145108.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Andhra Pradesh,Bharti Airtel,34324394.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Andhra Pradesh,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-08-01,Andhra Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Andhra Pradesh,Reliance Jio,31680474.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Andhra Pradesh,Vodafone Idea,9449201.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Assam,BSNL,2985454.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Assam,Bharti Airtel,12395925.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Assam,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-08-01,Assam,Reliance Communications,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-08-01,Assam,Reliance Jio,9756836.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Assam,Vodafone Idea,1455241.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Bihar,BSNL,5670590.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Bihar,Bharti Airtel,40849847.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Bihar,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-08-01,Bihar,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Bihar,Reliance Jio,42759124.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Bihar,Vodafone Idea,7895064.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Delhi,BSNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-08-01,Delhi,Bharti Airtel,19131497.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Delhi,MTNL,173896.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Delhi,Reliance Communications,2.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Delhi,Reliance Jio,20188419.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Delhi,Vodafone Idea,16684556.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Gujarat,BSNL,3270353.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Gujarat,Bharti Airtel,12577571.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Gujarat,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-08-01,Gujarat,Reliance Communications,1.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Gujarat,Reliance Jio,31596608.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Gujarat,Vodafone Idea,19601026.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Haryana,BSNL,4344316.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Haryana,Bharti Airtel,7385349.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Haryana,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-08-01,Haryana,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Haryana,Reliance Jio,8336557.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Haryana,Vodafone Idea,6283096.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Himachal Pradesh,BSNL,1734975.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Himachal Pradesh,Bharti Airtel,3638457.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Himachal Pradesh,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-08-01,Himachal Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Himachal Pradesh,Reliance Jio,3284943.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Himachal Pradesh,Vodafone Idea,386776.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Jammu & Kashmir,BSNL,868064.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Jammu & Kashmir,Bharti Airtel,6366434.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Jammu & Kashmir,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-08-01,Jammu & Kashmir,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Jammu & Kashmir,Reliance Jio,5215584.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Jammu & Kashmir,Vodafone Idea,257671.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Karnataka,BSNL,4577062.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Karnataka,Bharti Airtel,32517839.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Karnataka,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-08-01,Karnataka,Reliance Communications,398.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Karnataka,Reliance Jio,25355502.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Karnataka,Vodafone Idea,7143986.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Kerala,BSNL,8882915.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Kerala,Bharti Airtel,9239679.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Kerala,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-08-01,Kerala,Reliance Communications,4.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Kerala,Reliance Jio,10880877.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Kerala,Vodafone Idea,12800992.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Kolkata,BSNL,1412094.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Kolkata,Bharti Airtel,5307971.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Kolkata,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-08-01,Kolkata,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Kolkata,Reliance Jio,10856699.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Kolkata,Vodafone Idea,4773654.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Madhya Pradesh,BSNL,5097504.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Madhya Pradesh,Bharti Airtel,16763182.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Madhya Pradesh,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-08-01,Madhya Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Madhya Pradesh,Reliance Jio,46904836.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Madhya Pradesh,Vodafone Idea,13205304.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Maharashtra,BSNL,5269712.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Maharashtra,Bharti Airtel,22917455.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Maharashtra,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-08-01,Maharashtra,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Maharashtra,Reliance Jio,42750188.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Maharashtra,Vodafone Idea,20412459.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Mumbai,BSNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-08-01,Mumbai,Bharti Airtel,10087793.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Mumbai,MTNL,128673.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Mumbai,Reliance Communications,55.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Mumbai,Reliance Jio,13181320.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Mumbai,Vodafone Idea,10711565.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,North East,BSNL,1265400.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,North East,Bharti Airtel,6456645.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,North East,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-08-01,North East,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,North East,Reliance Jio,4405505.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,North East,Vodafone Idea,623613.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Odisha,BSNL,5558768.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Odisha,Bharti Airtel,12041180.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Odisha,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-08-01,Odisha,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Odisha,Reliance Jio,16569457.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Odisha,Vodafone Idea,1464721.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Punjab,BSNL,4073746.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Punjab,Bharti Airtel,12541673.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Punjab,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-08-01,Punjab,Reliance Communications,6.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Punjab,Reliance Jio,11344386.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Punjab,Vodafone Idea,5816725.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Rajasthan,BSNL,5706894.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Rajasthan,Bharti Airtel,23350479.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Rajasthan,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-08-01,Rajasthan,Reliance Communications,52.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Rajasthan,Reliance Jio,26840210.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Rajasthan,Vodafone Idea,8804377.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Tamil Nadu,BSNL,7899317.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Tamil Nadu,Bharti Airtel,30791628.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Tamil Nadu,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-08-01,Tamil Nadu,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Tamil Nadu,Reliance Jio,24596968.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Tamil Nadu,Vodafone Idea,14450929.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Uttar Pradesh East,BSNL,8263805.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Uttar Pradesh East,Bharti Airtel,35998468.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Uttar Pradesh East,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-08-01,Uttar Pradesh East,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Uttar Pradesh East,Reliance Jio,42928104.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Uttar Pradesh East,Vodafone Idea,15931810.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Uttar Pradesh West,BSNL,5104295.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Uttar Pradesh West,Bharti Airtel,18851882.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Uttar Pradesh West,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-08-01,Uttar Pradesh West,Reliance Communications,0.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Uttar Pradesh West,Reliance Jio,24935214.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,Uttar Pradesh West,Vodafone Idea,14074444.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,West Bengal,BSNL,2618398.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,West Bengal,Bharti Airtel,18438974.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,West Bengal,MTNL,,subscribers,blank_in_source,PR_No.104of2025_0.pdf,19
+2025-08-01,West Bengal,Reliance Communications,8.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,West Bengal,Reliance Jio,25085842.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2025-08-01,West Bengal,Vodafone Idea,11323801.0,subscribers,reported,PR_No.104of2025_0.pdf,19
+2026-02-01,Andhra Pradesh,BSNL,7489622.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Andhra Pradesh,Bharti Airtel,38327283.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Andhra Pradesh,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-02-01,Andhra Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Andhra Pradesh,Reliance Jio,32075153.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Andhra Pradesh,Vodafone Idea,8854876.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Assam,BSNL,2939314.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Assam,Bharti Airtel,14212088.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Assam,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-02-01,Assam,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Assam,Reliance Jio,9910383.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Assam,Vodafone Idea,1466072.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Bihar,BSNL,5636574.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Bihar,Bharti Airtel,49237048.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Bihar,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-02-01,Bihar,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Bihar,Reliance Jio,44537959.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Bihar,Vodafone Idea,7359813.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Delhi,BSNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-02-01,Delhi,Bharti Airtel,38222715.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Delhi,MTNL,134606.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Delhi,Reliance Communications,2.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Delhi,Reliance Jio,20466208.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Delhi,Vodafone Idea,16326460.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Gujarat,BSNL,3293233.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Gujarat,Bharti Airtel,15503511.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Gujarat,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-02-01,Gujarat,Reliance Communications,1.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Gujarat,Reliance Jio,32585710.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Gujarat,Vodafone Idea,19457305.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Haryana,BSNL,4415488.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Haryana,Bharti Airtel,7813312.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Haryana,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-02-01,Haryana,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Haryana,Reliance Jio,8209320.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Haryana,Vodafone Idea,6207455.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Himachal Pradesh,BSNL,1778243.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Himachal Pradesh,Bharti Airtel,3632654.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Himachal Pradesh,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-02-01,Himachal Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Himachal Pradesh,Reliance Jio,3577829.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Himachal Pradesh,Vodafone Idea,389532.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Jammu & Kashmir,BSNL,855876.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Jammu & Kashmir,Bharti Airtel,6620418.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Jammu & Kashmir,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-02-01,Jammu & Kashmir,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Jammu & Kashmir,Reliance Jio,5486632.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Jammu & Kashmir,Vodafone Idea,268634.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Karnataka,BSNL,4712976.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Karnataka,Bharti Airtel,43661606.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Karnataka,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-02-01,Karnataka,Reliance Communications,135.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Karnataka,Reliance Jio,26218620.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Karnataka,Vodafone Idea,7516679.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Kerala,BSNL,8968497.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Kerala,Bharti Airtel,9570297.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Kerala,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-02-01,Kerala,Reliance Communications,3.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Kerala,Reliance Jio,11070831.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Kerala,Vodafone Idea,12755200.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Kolkata,BSNL,1426529.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Kolkata,Bharti Airtel,5983605.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Kolkata,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-02-01,Kolkata,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Kolkata,Reliance Jio,10897387.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Kolkata,Vodafone Idea,4588903.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Madhya Pradesh,BSNL,5136362.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Madhya Pradesh,Bharti Airtel,18200513.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Madhya Pradesh,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-02-01,Madhya Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Madhya Pradesh,Reliance Jio,49402733.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Madhya Pradesh,Vodafone Idea,12661300.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Maharashtra,BSNL,5315131.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Maharashtra,Bharti Airtel,31586780.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Maharashtra,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-02-01,Maharashtra,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Maharashtra,Reliance Jio,43720843.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Maharashtra,Vodafone Idea,20617223.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Mumbai,BSNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-02-01,Mumbai,Bharti Airtel,15797686.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Mumbai,MTNL,89426.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Mumbai,Reliance Communications,51.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Mumbai,Reliance Jio,13276305.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Mumbai,Vodafone Idea,10828191.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,North East,BSNL,1305447.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,North East,Bharti Airtel,6636085.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,North East,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-02-01,North East,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,North East,Reliance Jio,4593508.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,North East,Vodafone Idea,597462.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Odisha,BSNL,5507651.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Odisha,Bharti Airtel,13153321.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Odisha,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-02-01,Odisha,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Odisha,Reliance Jio,17586250.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Odisha,Vodafone Idea,1503646.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Punjab,BSNL,4103312.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Punjab,Bharti Airtel,14059983.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Punjab,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-02-01,Punjab,Reliance Communications,5.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Punjab,Reliance Jio,11648351.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Punjab,Vodafone Idea,5616780.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Rajasthan,BSNL,5733509.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Rajasthan,Bharti Airtel,25683135.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Rajasthan,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-02-01,Rajasthan,Reliance Communications,36.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Rajasthan,Reliance Jio,27543925.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Rajasthan,Vodafone Idea,8418253.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Tamil Nadu,BSNL,7990412.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Tamil Nadu,Bharti Airtel,32957309.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Tamil Nadu,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-02-01,Tamil Nadu,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Tamil Nadu,Reliance Jio,24938684.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Tamil Nadu,Vodafone Idea,14276884.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Uttar Pradesh East,BSNL,8474962.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Uttar Pradesh East,Bharti Airtel,40720415.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Uttar Pradesh East,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-02-01,Uttar Pradesh East,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Uttar Pradesh East,Reliance Jio,43907858.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Uttar Pradesh East,Vodafone Idea,15833950.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Uttar Pradesh West,BSNL,5195981.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Uttar Pradesh West,Bharti Airtel,22227092.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Uttar Pradesh West,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-02-01,Uttar Pradesh West,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Uttar Pradesh West,Reliance Jio,25604734.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,Uttar Pradesh West,Vodafone Idea,12500495.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,West Bengal,BSNL,2647259.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,West Bengal,Bharti Airtel,18842022.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,West Bengal,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-02-01,West Bengal,Reliance Communications,4.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,West Bengal,Reliance Jio,25852760.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-02-01,West Bengal,Vodafone Idea,10336783.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Andhra Pradesh,BSNL,7489676.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Andhra Pradesh,Bharti Airtel,38642976.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Andhra Pradesh,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-03-01,Andhra Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Andhra Pradesh,Reliance Jio,32224617.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Andhra Pradesh,Vodafone Idea,8839537.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Assam,BSNL,2928181.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Assam,Bharti Airtel,14786568.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Assam,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-03-01,Assam,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Assam,Reliance Jio,10015219.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Assam,Vodafone Idea,1480568.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Bihar,BSNL,5626979.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Bihar,Bharti Airtel,49486508.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Bihar,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-03-01,Bihar,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Bihar,Reliance Jio,44998130.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Bihar,Vodafone Idea,7417265.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Delhi,BSNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-03-01,Delhi,Bharti Airtel,38960542.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Delhi,MTNL,133080.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Delhi,Reliance Communications,2.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Delhi,Reliance Jio,20434815.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Delhi,Vodafone Idea,16095501.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Gujarat,BSNL,3290591.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Gujarat,Bharti Airtel,15664281.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Gujarat,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-03-01,Gujarat,Reliance Communications,1.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Gujarat,Reliance Jio,32899907.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Gujarat,Vodafone Idea,19559053.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Haryana,BSNL,4509472.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Haryana,Bharti Airtel,7854741.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Haryana,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-03-01,Haryana,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Haryana,Reliance Jio,8220268.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Haryana,Vodafone Idea,6231180.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Himachal Pradesh,BSNL,1777880.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Himachal Pradesh,Bharti Airtel,3630477.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Himachal Pradesh,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-03-01,Himachal Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Himachal Pradesh,Reliance Jio,3590215.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Himachal Pradesh,Vodafone Idea,393644.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Jammu & Kashmir,BSNL,851147.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Jammu & Kashmir,Bharti Airtel,6704199.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Jammu & Kashmir,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-03-01,Jammu & Kashmir,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Jammu & Kashmir,Reliance Jio,5616528.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Jammu & Kashmir,Vodafone Idea,276509.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Karnataka,BSNL,4711589.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Karnataka,Bharti Airtel,43989594.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Karnataka,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-03-01,Karnataka,Reliance Communications,102.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Karnataka,Reliance Jio,26428918.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Karnataka,Vodafone Idea,7617380.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Kerala,BSNL,8961293.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Kerala,Bharti Airtel,9582288.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Kerala,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-03-01,Kerala,Reliance Communications,3.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Kerala,Reliance Jio,11137247.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Kerala,Vodafone Idea,12782282.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Kolkata,BSNL,1423628.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Kolkata,Bharti Airtel,5994154.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Kolkata,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-03-01,Kolkata,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Kolkata,Reliance Jio,10933395.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Kolkata,Vodafone Idea,4593122.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Madhya Pradesh,BSNL,5132531.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Madhya Pradesh,Bharti Airtel,18298313.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Madhya Pradesh,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-03-01,Madhya Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Madhya Pradesh,Reliance Jio,49606122.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Madhya Pradesh,Vodafone Idea,12609315.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Maharashtra,BSNL,5338848.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Maharashtra,Bharti Airtel,32250561.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Maharashtra,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-03-01,Maharashtra,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Maharashtra,Reliance Jio,43941678.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Maharashtra,Vodafone Idea,20636495.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Mumbai,BSNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-03-01,Mumbai,Bharti Airtel,15942397.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Mumbai,MTNL,81887.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Mumbai,Reliance Communications,48.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Mumbai,Reliance Jio,13337985.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Mumbai,Vodafone Idea,10842893.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,North East,BSNL,1296967.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,North East,Bharti Airtel,6724753.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,North East,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-03-01,North East,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,North East,Reliance Jio,4656859.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,North East,Vodafone Idea,595310.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Odisha,BSNL,5500943.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Odisha,Bharti Airtel,13309058.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Odisha,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-03-01,Odisha,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Odisha,Reliance Jio,17826738.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Odisha,Vodafone Idea,1521363.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Punjab,BSNL,4098495.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Punjab,Bharti Airtel,14145393.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Punjab,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-03-01,Punjab,Reliance Communications,5.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Punjab,Reliance Jio,11681843.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Punjab,Vodafone Idea,5633877.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Rajasthan,BSNL,5739342.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Rajasthan,Bharti Airtel,25919581.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Rajasthan,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-03-01,Rajasthan,Reliance Communications,36.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Rajasthan,Reliance Jio,27741623.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Rajasthan,Vodafone Idea,8381177.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Tamil Nadu,BSNL,7982319.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Tamil Nadu,Bharti Airtel,33196496.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Tamil Nadu,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-03-01,Tamil Nadu,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Tamil Nadu,Reliance Jio,25015812.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Tamil Nadu,Vodafone Idea,14319339.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Uttar Pradesh East,BSNL,8460976.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Uttar Pradesh East,Bharti Airtel,41112752.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Uttar Pradesh East,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-03-01,Uttar Pradesh East,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Uttar Pradesh East,Reliance Jio,44076149.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Uttar Pradesh East,Vodafone Idea,15881819.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Uttar Pradesh West,BSNL,5178467.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Uttar Pradesh West,Bharti Airtel,22650740.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Uttar Pradesh West,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-03-01,Uttar Pradesh West,Reliance Communications,0.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Uttar Pradesh West,Reliance Jio,25926452.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,Uttar Pradesh West,Vodafone Idea,12486372.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,West Bengal,BSNL,2644149.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,West Bengal,Bharti Airtel,18897474.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,West Bengal,MTNL,,subscribers,blank_in_source,PR_No.53of2026.pdf,20
+2026-03-01,West Bengal,Reliance Communications,4.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,West Bengal,Reliance Jio,26029005.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-03-01,West Bengal,Vodafone Idea,10290794.0,subscribers,reported,PR_No.53of2026.pdf,20
+2026-04-01,Andhra Pradesh,BSNL,7557962.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Andhra Pradesh,Bharti Airtel,38970326.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Andhra Pradesh,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-04-01,Andhra Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Andhra Pradesh,Reliance Jio,32478104.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Andhra Pradesh,Vodafone Idea,8802096.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Assam,BSNL,2922793.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Assam,Bharti Airtel,14896478.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Assam,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-04-01,Assam,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Assam,Reliance Jio,10060108.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Assam,Vodafone Idea,1485056.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Bihar,BSNL,5625714.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Bihar,Bharti Airtel,49517464.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Bihar,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-04-01,Bihar,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Bihar,Reliance Jio,45149439.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Bihar,Vodafone Idea,7434457.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Delhi,BSNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-04-01,Delhi,Bharti Airtel,39262547.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Delhi,MTNL,129207.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Delhi,Reliance Communications,2.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Delhi,Reliance Jio,20612684.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Delhi,Vodafone Idea,16189801.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Gujarat,BSNL,3295987.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Gujarat,Bharti Airtel,15723878.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Gujarat,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-04-01,Gujarat,Reliance Communications,1.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Gujarat,Reliance Jio,33131377.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Gujarat,Vodafone Idea,19729396.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Haryana,BSNL,4559710.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Haryana,Bharti Airtel,7887027.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Haryana,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-04-01,Haryana,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Haryana,Reliance Jio,8303484.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Haryana,Vodafone Idea,6224074.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Himachal Pradesh,BSNL,1780772.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Himachal Pradesh,Bharti Airtel,3637192.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Himachal Pradesh,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-04-01,Himachal Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Himachal Pradesh,Reliance Jio,3577538.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Himachal Pradesh,Vodafone Idea,396820.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Jammu & Kashmir,BSNL,854884.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Jammu & Kashmir,Bharti Airtel,6796765.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Jammu & Kashmir,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-04-01,Jammu & Kashmir,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Jammu & Kashmir,Reliance Jio,5696363.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Jammu & Kashmir,Vodafone Idea,280908.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Karnataka,BSNL,4725412.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Karnataka,Bharti Airtel,44269515.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Karnataka,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-04-01,Karnataka,Reliance Communications,75.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Karnataka,Reliance Jio,26465455.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Karnataka,Vodafone Idea,7615960.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Kerala,BSNL,8961337.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Kerala,Bharti Airtel,9631490.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Kerala,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-04-01,Kerala,Reliance Communications,3.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Kerala,Reliance Jio,11115720.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Kerala,Vodafone Idea,12764197.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Kolkata,BSNL,1426037.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Kolkata,Bharti Airtel,5981811.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Kolkata,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-04-01,Kolkata,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Kolkata,Reliance Jio,11087736.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Kolkata,Vodafone Idea,4568463.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Madhya Pradesh,BSNL,5140116.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Madhya Pradesh,Bharti Airtel,18400729.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Madhya Pradesh,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-04-01,Madhya Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Madhya Pradesh,Reliance Jio,49953871.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Madhya Pradesh,Vodafone Idea,12507611.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Maharashtra,BSNL,5316718.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Maharashtra,Bharti Airtel,32726341.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Maharashtra,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-04-01,Maharashtra,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Maharashtra,Reliance Jio,44226664.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Maharashtra,Vodafone Idea,20597024.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Mumbai,BSNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-04-01,Mumbai,Bharti Airtel,16078527.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Mumbai,MTNL,52357.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Mumbai,Reliance Communications,40.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Mumbai,Reliance Jio,13426809.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Mumbai,Vodafone Idea,10821735.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,North East,BSNL,1296058.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,North East,Bharti Airtel,6773477.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,North East,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-04-01,North East,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,North East,Reliance Jio,4682631.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,North East,Vodafone Idea,596157.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Odisha,BSNL,5501212.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Odisha,Bharti Airtel,13405275.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Odisha,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-04-01,Odisha,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Odisha,Reliance Jio,17970331.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Odisha,Vodafone Idea,1534143.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Punjab,BSNL,4103016.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Punjab,Bharti Airtel,14180852.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Punjab,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-04-01,Punjab,Reliance Communications,5.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Punjab,Reliance Jio,11693275.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Punjab,Vodafone Idea,5641873.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Rajasthan,BSNL,5742178.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Rajasthan,Bharti Airtel,26113715.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Rajasthan,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-04-01,Rajasthan,Reliance Communications,35.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Rajasthan,Reliance Jio,27858385.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Rajasthan,Vodafone Idea,8314223.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Tamil Nadu,BSNL,7947847.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Tamil Nadu,Bharti Airtel,33322607.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Tamil Nadu,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-04-01,Tamil Nadu,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Tamil Nadu,Reliance Jio,25047405.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Tamil Nadu,Vodafone Idea,14302284.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Uttar Pradesh East,BSNL,8455120.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Uttar Pradesh East,Bharti Airtel,41356367.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Uttar Pradesh East,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-04-01,Uttar Pradesh East,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Uttar Pradesh East,Reliance Jio,44480957.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Uttar Pradesh East,Vodafone Idea,16081714.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Uttar Pradesh West,BSNL,5163335.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Uttar Pradesh West,Bharti Airtel,23008979.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Uttar Pradesh West,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-04-01,Uttar Pradesh West,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Uttar Pradesh West,Reliance Jio,26070008.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,Uttar Pradesh West,Vodafone Idea,12413016.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,West Bengal,BSNL,2643440.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,West Bengal,Bharti Airtel,18941712.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,West Bengal,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-04-01,West Bengal,Reliance Communications,1.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,West Bengal,Reliance Jio,26193824.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-04-01,West Bengal,Vodafone Idea,10237044.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Andhra Pradesh,BSNL,7535550.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Andhra Pradesh,Bharti Airtel,39092047.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Andhra Pradesh,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-05-01,Andhra Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Andhra Pradesh,Reliance Jio,32401558.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Andhra Pradesh,Vodafone Idea,8753635.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Assam,BSNL,2917852.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Assam,Bharti Airtel,14928274.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Assam,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-05-01,Assam,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Assam,Reliance Jio,10119073.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Assam,Vodafone Idea,1497691.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Bihar,BSNL,5553265.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Bihar,Bharti Airtel,49720312.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Bihar,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-05-01,Bihar,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Bihar,Reliance Jio,45386595.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Bihar,Vodafone Idea,7440735.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Delhi,BSNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-05-01,Delhi,Bharti Airtel,39710860.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Delhi,MTNL,127923.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Delhi,Reliance Communications,2.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Delhi,Reliance Jio,20661804.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Delhi,Vodafone Idea,16408115.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Gujarat,BSNL,3299334.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Gujarat,Bharti Airtel,15747678.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Gujarat,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-05-01,Gujarat,Reliance Communications,1.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Gujarat,Reliance Jio,33397802.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Gujarat,Vodafone Idea,19896431.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Haryana,BSNL,4577770.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Haryana,Bharti Airtel,7908071.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Haryana,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-05-01,Haryana,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Haryana,Reliance Jio,8221663.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Haryana,Vodafone Idea,6206028.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Himachal Pradesh,BSNL,1789147.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Himachal Pradesh,Bharti Airtel,3624363.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Himachal Pradesh,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-05-01,Himachal Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Himachal Pradesh,Reliance Jio,3592071.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Himachal Pradesh,Vodafone Idea,396159.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Jammu & Kashmir,BSNL,854021.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Jammu & Kashmir,Bharti Airtel,6837398.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Jammu & Kashmir,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-05-01,Jammu & Kashmir,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Jammu & Kashmir,Reliance Jio,5749073.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Jammu & Kashmir,Vodafone Idea,284997.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Karnataka,BSNL,4739380.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Karnataka,Bharti Airtel,44450844.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Karnataka,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-05-01,Karnataka,Reliance Communications,75.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Karnataka,Reliance Jio,26665384.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Karnataka,Vodafone Idea,7620337.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Kerala,BSNL,8970872.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Kerala,Bharti Airtel,9748800.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Kerala,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-05-01,Kerala,Reliance Communications,3.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Kerala,Reliance Jio,11143678.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Kerala,Vodafone Idea,12750255.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Kolkata,BSNL,1427641.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Kolkata,Bharti Airtel,6020324.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Kolkata,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-05-01,Kolkata,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Kolkata,Reliance Jio,11100615.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Kolkata,Vodafone Idea,4542132.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Madhya Pradesh,BSNL,5132545.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Madhya Pradesh,Bharti Airtel,18558123.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Madhya Pradesh,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-05-01,Madhya Pradesh,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Madhya Pradesh,Reliance Jio,50272816.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Madhya Pradesh,Vodafone Idea,12441469.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Maharashtra,BSNL,5284267.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Maharashtra,Bharti Airtel,33220613.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Maharashtra,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-05-01,Maharashtra,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Maharashtra,Reliance Jio,44467631.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Maharashtra,Vodafone Idea,20581895.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Mumbai,BSNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-05-01,Mumbai,Bharti Airtel,16206457.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Mumbai,MTNL,49838.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Mumbai,Reliance Communications,40.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Mumbai,Reliance Jio,13342742.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Mumbai,Vodafone Idea,10712900.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,North East,BSNL,1296289.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,North East,Bharti Airtel,6789479.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,North East,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-05-01,North East,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,North East,Reliance Jio,4693114.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,North East,Vodafone Idea,597071.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Odisha,BSNL,5499804.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Odisha,Bharti Airtel,13370540.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Odisha,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-05-01,Odisha,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Odisha,Reliance Jio,18064429.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Odisha,Vodafone Idea,1525249.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Punjab,BSNL,4104876.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Punjab,Bharti Airtel,14089157.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Punjab,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-05-01,Punjab,Reliance Communications,5.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Punjab,Reliance Jio,11755036.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Punjab,Vodafone Idea,5617168.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Rajasthan,BSNL,5757236.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Rajasthan,Bharti Airtel,26261236.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Rajasthan,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-05-01,Rajasthan,Reliance Communications,35.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Rajasthan,Reliance Jio,28074665.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Rajasthan,Vodafone Idea,8212020.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Tamil Nadu,BSNL,7906366.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Tamil Nadu,Bharti Airtel,33412949.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Tamil Nadu,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-05-01,Tamil Nadu,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Tamil Nadu,Reliance Jio,25096131.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Tamil Nadu,Vodafone Idea,14201784.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Uttar Pradesh East,BSNL,8457382.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Uttar Pradesh East,Bharti Airtel,41649868.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Uttar Pradesh East,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-05-01,Uttar Pradesh East,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Uttar Pradesh East,Reliance Jio,44687286.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Uttar Pradesh East,Vodafone Idea,16403959.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Uttar Pradesh West,BSNL,5169858.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Uttar Pradesh West,Bharti Airtel,23203685.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Uttar Pradesh West,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-05-01,Uttar Pradesh West,Reliance Communications,0.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Uttar Pradesh West,Reliance Jio,26207243.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,Uttar Pradesh West,Vodafone Idea,12358584.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,West Bengal,BSNL,2641533.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,West Bengal,Bharti Airtel,19258903.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,West Bengal,MTNL,,subscribers,blank_in_source,PR_No78of2026_0.pdf,20
+2026-05-01,West Bengal,Reliance Communications,1.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,West Bengal,Reliance Jio,26336227.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-05-01,West Bengal,Vodafone Idea,10210727.0,subscribers,reported,PR_No78of2026_0.pdf,20
+2026-07-01,Andhra Pradesh,BSNL,7614955.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Andhra Pradesh,Bharti Airtel,39732416.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Andhra Pradesh,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Andhra Pradesh,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Andhra Pradesh,Reliance Jio,32652535.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Andhra Pradesh,Vodafone Idea,8715411.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Assam,BSNL,2901384.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Assam,Bharti Airtel,15143012.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Assam,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Assam,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Assam,Reliance Jio,10216861.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Assam,Vodafone Idea,1519974.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Bihar,BSNL,5518948.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Bihar,Bharti Airtel,50040817.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Bihar,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Bihar,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Bihar,Reliance Jio,45882993.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Bihar,Vodafone Idea,7480977.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Delhi,BSNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Delhi,Bharti Airtel,40228926.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Delhi,MTNL,122756.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Delhi,Reliance Communications,3.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Delhi,Reliance Jio,20697557.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Delhi,Vodafone Idea,16543979.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Gujarat,BSNL,3304433.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Gujarat,Bharti Airtel,15946351.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Gujarat,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Gujarat,Reliance Communications,2.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Gujarat,Reliance Jio,33856293.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Gujarat,Vodafone Idea,20116264.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Haryana,BSNL,4717784.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Haryana,Bharti Airtel,7964101.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Haryana,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Haryana,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Haryana,Reliance Jio,8308319.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Haryana,Vodafone Idea,6201808.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Himachal Pradesh,BSNL,1800820.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Himachal Pradesh,Bharti Airtel,3637211.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Himachal Pradesh,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Himachal Pradesh,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Himachal Pradesh,Reliance Jio,3639396.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Himachal Pradesh,Vodafone Idea,393086.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Jammu & Kashmir,BSNL,863662.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Jammu & Kashmir,Bharti Airtel,7070320.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Jammu & Kashmir,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Jammu & Kashmir,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Jammu & Kashmir,Reliance Jio,6063404.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Jammu & Kashmir,Vodafone Idea,270058.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Karnataka,BSNL,4750730.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Karnataka,Bharti Airtel,45088864.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Karnataka,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Karnataka,Reliance Communications,4.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Karnataka,Reliance Jio,26780725.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Karnataka,Vodafone Idea,7751977.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Kerala,BSNL,9025390.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Kerala,Bharti Airtel,9841122.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Kerala,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Kerala,Reliance Communications,3.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Kerala,Reliance Jio,11246920.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Kerala,Vodafone Idea,12807413.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Kolkata,BSNL,1420158.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Kolkata,Bharti Airtel,6062654.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Kolkata,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Kolkata,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Kolkata,Reliance Jio,11089259.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Kolkata,Vodafone Idea,4508421.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Madhya Pradesh,BSNL,5127474.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Madhya Pradesh,Bharti Airtel,18696294.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Madhya Pradesh,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Madhya Pradesh,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Madhya Pradesh,Reliance Jio,50872131.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Madhya Pradesh,Vodafone Idea,12391285.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Maharashtra,BSNL,5293675.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Maharashtra,Bharti Airtel,34081957.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Maharashtra,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Maharashtra,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Maharashtra,Reliance Jio,44467148.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Maharashtra,Vodafone Idea,20696362.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Mumbai,BSNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Mumbai,Bharti Airtel,16447086.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Mumbai,MTNL,37977.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Mumbai,Reliance Communications,62.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Mumbai,Reliance Jio,13441467.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Mumbai,Vodafone Idea,10725580.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,North East,BSNL,1293699.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,North East,Bharti Airtel,6839355.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,North East,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,North East,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,North East,Reliance Jio,4711654.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,North East,Vodafone Idea,591840.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Odisha,BSNL,5491419.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Odisha,Bharti Airtel,13464578.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Odisha,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Odisha,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Odisha,Reliance Jio,18504489.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Odisha,Vodafone Idea,1553801.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Punjab,BSNL,4104294.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Punjab,Bharti Airtel,14198899.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Punjab,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Punjab,Reliance Communications,6.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Punjab,Reliance Jio,11825488.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Punjab,Vodafone Idea,5572993.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Rajasthan,BSNL,5847630.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Rajasthan,Bharti Airtel,26440461.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Rajasthan,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Rajasthan,Reliance Communications,34.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Rajasthan,Reliance Jio,28519571.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Rajasthan,Vodafone Idea,8172241.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Tamil Nadu,BSNL,7850699.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Tamil Nadu,Bharti Airtel,33848814.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Tamil Nadu,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Tamil Nadu,Reliance Communications,2.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Tamil Nadu,Reliance Jio,25309000.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Tamil Nadu,Vodafone Idea,14196843.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,U.P.(W ),BSNL,5179350.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,U.P.(W ),Bharti Airtel,23498533.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,U.P.(W ),MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,U.P.(W ),Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,U.P.(W ),Reliance Jio,26360551.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,U.P.(W ),Vodafone Idea,12156122.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Uttar Pradesh East,BSNL,8451922.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Uttar Pradesh East,Bharti Airtel,41789816.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Uttar Pradesh East,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Uttar Pradesh East,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,Uttar Pradesh East,Reliance Jio,44972938.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,Uttar Pradesh East,Vodafone Idea,16599835.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,West Bengal,BSNL,2619442.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,West Bengal,Bharti Airtel,19426718.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,West Bengal,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-07-01,West Bengal,Reliance Communications,3.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,West Bengal,Reliance Jio,26611644.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-07-01,West Bengal,Vodafone Idea,10096942.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Andhra Pradesh,BSNL,7679474.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Andhra Pradesh,Bharti Airtel,39937042.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Andhra Pradesh,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Andhra Pradesh,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Andhra Pradesh,Reliance Jio,32864786.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Andhra Pradesh,Vodafone Idea,8753514.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Assam,BSNL,2899920.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Assam,Bharti Airtel,15270657.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Assam,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Assam,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Assam,Reliance Jio,10291012.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Assam,Vodafone Idea,1514641.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Bihar,BSNL,5539813.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Bihar,Bharti Airtel,50105575.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Bihar,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Bihar,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Bihar,Reliance Jio,46124438.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Bihar,Vodafone Idea,7504851.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Delhi,BSNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Delhi,Bharti Airtel,40712950.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Delhi,MTNL,120657.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Delhi,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Delhi,Reliance Jio,20789246.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Delhi,Vodafone Idea,16742242.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Gujarat,BSNL,3317956.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Gujarat,Bharti Airtel,16059429.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Gujarat,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Gujarat,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Gujarat,Reliance Jio,34067272.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Gujarat,Vodafone Idea,20324998.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Haryana,BSNL,4775713.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Haryana,Bharti Airtel,7982329.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Haryana,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Haryana,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Haryana,Reliance Jio,8315218.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Haryana,Vodafone Idea,6205068.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Himachal Pradesh,BSNL,1817071.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Himachal Pradesh,Bharti Airtel,3646564.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Himachal Pradesh,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Himachal Pradesh,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Himachal Pradesh,Reliance Jio,3592194.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Himachal Pradesh,Vodafone Idea,395022.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Jammu & Kashmir,BSNL,863103.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Jammu & Kashmir,Bharti Airtel,7069179.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Jammu & Kashmir,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Jammu & Kashmir,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Jammu & Kashmir,Reliance Jio,6080498.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Jammu & Kashmir,Vodafone Idea,261962.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Karnataka,BSNL,4787079.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Karnataka,Bharti Airtel,45416167.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Karnataka,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Karnataka,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Karnataka,Reliance Jio,26971321.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Karnataka,Vodafone Idea,7753137.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Kerala,BSNL,9056965.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Kerala,Bharti Airtel,9908479.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Kerala,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Kerala,Reliance Communications,1.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Kerala,Reliance Jio,11287542.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Kerala,Vodafone Idea,12853355.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Kolkata,BSNL,1424408.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Kolkata,Bharti Airtel,6074476.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Kolkata,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Kolkata,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Kolkata,Reliance Jio,11116033.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Kolkata,Vodafone Idea,4538165.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Madhya Pradesh,BSNL,5152360.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Madhya Pradesh,Bharti Airtel,18711618.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Madhya Pradesh,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Madhya Pradesh,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Madhya Pradesh,Reliance Jio,51079265.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Madhya Pradesh,Vodafone Idea,12392757.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Maharashtra,BSNL,5327192.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Maharashtra,Bharti Airtel,34367416.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Maharashtra,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Maharashtra,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Maharashtra,Reliance Jio,44608248.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Maharashtra,Vodafone Idea,20691316.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Mumbai,BSNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Mumbai,Bharti Airtel,16461258.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Mumbai,MTNL,34197.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Mumbai,Reliance Communications,27.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Mumbai,Reliance Jio,13526403.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Mumbai,Vodafone Idea,10751229.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,North East,BSNL,1309150.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,North East,Bharti Airtel,6850897.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,North East,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,North East,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,North East,Reliance Jio,4723023.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,North East,Vodafone Idea,590167.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Odisha,BSNL,5499606.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Odisha,Bharti Airtel,13477538.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Odisha,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Odisha,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Odisha,Reliance Jio,18664429.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Odisha,Vodafone Idea,1557705.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Punjab,BSNL,4106818.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Punjab,Bharti Airtel,14193818.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Punjab,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Punjab,Reliance Communications,2.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Punjab,Reliance Jio,11859083.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Punjab,Vodafone Idea,5623167.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Rajasthan,BSNL,5966476.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Rajasthan,Bharti Airtel,26450165.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Rajasthan,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Rajasthan,Reliance Communications,1.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Rajasthan,Reliance Jio,28640776.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Rajasthan,Vodafone Idea,8154765.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Tamil Nadu,BSNL,7849488.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Tamil Nadu,Bharti Airtel,33980568.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Tamil Nadu,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Tamil Nadu,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Tamil Nadu,Reliance Jio,25487757.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Tamil Nadu,Vodafone Idea,14242659.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,U.P.(W ),BSNL,5195393.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,U.P.(W ),Bharti Airtel,23599795.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,U.P.(W ),MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,U.P.(W ),Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,U.P.(W ),Reliance Jio,26353692.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,U.P.(W ),Vodafone Idea,12062015.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Uttar Pradesh East,BSNL,8477041.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Uttar Pradesh East,Bharti Airtel,41796955.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Uttar Pradesh East,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Uttar Pradesh East,Reliance Communications,,subscribers,dash_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,Uttar Pradesh East,Reliance Jio,45238147.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,Uttar Pradesh East,Vodafone Idea,16608558.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,West Bengal,BSNL,2625673.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,West Bengal,Bharti Airtel,19526242.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,West Bengal,MTNL,,subscribers,blank_in_source,PR_No125of2026_0.pdf,20
+2026-08-01,West Bengal,Reliance Communications,1.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,West Bengal,Reliance Jio,26751522.0,subscribers,reported,PR_No125of2026_0.pdf,20
+2026-08-01,West Bengal,Vodafone Idea,10048058.0,subscribers,reported,PR_No125of2026_0.pdf,20

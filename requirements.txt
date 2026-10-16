@@ -1,0 +1,19 @@
+# TRAI Telecom Analytics Project — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core data manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0          # Excel (.xlsx) read/write support
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Jupyter Notebook
+notebook>=7.0.0
+ipykernel>=6.25.0
+
+# Optional — for interactive charts (uncomment if needed)
+# plotly>=5.18.0
+# nbformat>=5.9.0
