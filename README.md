@@ -61,7 +61,7 @@ The analysis delivers insights across five key dimensions:
 | `TRAI_Telecom_Analytics_Dataset.xlsx` | 8 sheets covering national summary, operator monthly, broadband top-5, data quality | 1,765+ | broadband_total_million, mnp_requests_million, market_share_pct, month_over_month_change |
 
 **Source:** Telecom Regulatory Authority of India (TRAI)  
-**Official Website:** [https://www.trai.gov.in](https://www.trai.gov.in)  
+**Official Website:** [https://www.trai.gov.in](https://www.trai.gov.in)(https://docs.google.com/spreadsheets/d/1TFgy3lWbGknU_lDYMIDV7U3vLdiNo6h-/edit?usp=drivesdk&ouid=118056269244685114086&rtpof=true&sd=true)(https://drive.google.com/file/d/1r4lwnG84zrkdIQlVpI0s_t_4DoWu3Fx-/view?usp=drivesdk)
 **Coverage:** January 2025 – August 2026 (14 monthly snapshots, 5-month data gap Sep 2025–Jan 2026)
 
 ---
